@@ -42,4 +42,5 @@ echo $result . "\r\n";
 }
 }
 }
-echo "OK";
+echo "Initial Version 0.1";
+echo "credit : https://medium.com/@sorajbuasri/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-line-bot-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-message-api-line-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-php-7ad80fe8328a";
